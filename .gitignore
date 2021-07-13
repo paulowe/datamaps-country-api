@@ -3,3 +3,6 @@
 .DS_Store
 archive/.ipynb_checkpoints/world-happiness-report-checkpoint.csv
 archive/.ipynb_checkpoints/world-happiness-report-2021-checkpoint.csv
+archive/.env
+.env
+.ipynb_checkpoints/.env-checkpoint
